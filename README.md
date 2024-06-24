@@ -1,0 +1,4 @@
+- Create and start entrypoint of React without template.
+- Retrieve a random quote from `https://catfact.ninja/fact`.
+- From the first word of the quote, retrieve a random cat image from `https://cataas.com/cat/says/hello`.
+- Testing End to End.
