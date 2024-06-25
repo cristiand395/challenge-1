@@ -1,0 +1,22 @@
+.app {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.content {
+  max-width: 600px;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+}
+
+.content>h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin: 0 auto;
+}
+
+.content>img {
+  width: 100%;
+}
