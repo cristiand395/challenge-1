@@ -9,7 +9,4 @@
 - Separate the logic of the app into separate files. ✅
 - Refactor with Custom Hook for the logic. ✅
 - Create basic tests. ✅
-<video width="640" height="360" controls>
-  <source src="https://github.com/cristiand395/challenge-1/raw/main/assets/preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  ![Challenge Preview](./assets/preview.gif)
